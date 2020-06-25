@@ -1,0 +1,21 @@
+p {
+  margin: 10 0 !important;
+}
+
+.card {
+  width: 400px;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.login-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
