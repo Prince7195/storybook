@@ -2,7 +2,7 @@ p {
   margin: 10 0 !important;
 }
 
-.card {
+.login-card {
   width: 400px;
 }
 
@@ -18,4 +18,17 @@ p {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.btn-float {
+  float: left;
+  margin-right: 10px;
+}
+
+.img-small {
+  width: 180px;
 }
